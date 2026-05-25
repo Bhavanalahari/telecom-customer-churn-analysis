@@ -37,9 +37,9 @@ This project focuses on analyzing customer churn behavior in the telecom industr
 ---
 
 ## Files Included
-- `Customer_Churn_Project.ipynb` → Python analysis notebook
-- `Telco-Customer-Churn.csv` → Dataset used for analysis
-- `Customer_Churn_Dashboard.pbix` → Interactive Power BI dashboard
+- Customer_Churn_Project.ipynb → Python analysis notebook
+- Telco-Customer-Churn.csv → Dataset used for analysis
+- Customer_Churn_Dashboard.pbix → Interactive Power BI dashboard
 
 ---
 
